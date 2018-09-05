@@ -4,6 +4,7 @@
 
 This is an automated build to generate an nback task container, including the following Expfactory experiments:
 
+ - [n-back](https://www.github.com/expfactory-experiments/n-back)
  - [adaptive-n-back](https://www.github.com/expfactory-experiments/adaptive-n-back)
  - [nback-10min-animals](https://www.github.com/expfactory-experiments/nback-10min-animals)
 
